@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "cors",
+      "type": "com.ApnaMart.demo.config.CORSProperties",
+      "sourceType": "com.ApnaMart.demo.config.CORSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cors.allowed-headers",
+      "type": "java.lang.String[]",
+      "sourceType": "com.ApnaMart.demo.config.CORSProperties"
+    },
+    {
+      "name": "cors.allowed-methods",
+      "type": "java.lang.String[]",
+      "sourceType": "com.ApnaMart.demo.config.CORSProperties"
+    },
+    {
+      "name": "cors.allowed-origins",
+      "type": "java.lang.String[]",
+      "sourceType": "com.ApnaMart.demo.config.CORSProperties"
+    }
+  ],
+  "hints": []
+}
