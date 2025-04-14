@@ -23,6 +23,6 @@ The Repository layer provides an abstraction for data persistence. Using Spring 
 Entities are plain old Java objects (POJOs) that map to database tables (or collections). They represent the state and data of your application, and their structure typically reflects the underlying database schema.
   <li>Utility/Helper Layer: </li> 
 This layer provides common functions, such as logging, date formatting, configuration handling, exception handling, or third-party API integrations, which can be utilized across the entire application.
-  <li> Security: </li>
+  <li> Security Layer: </li>
 Integrate Spring Security or OAuth2 for authenticating and authorizing API requests. Security configurations can be placed in a separate config package.
 </ul>
