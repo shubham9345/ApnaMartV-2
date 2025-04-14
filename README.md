@@ -7,6 +7,7 @@ ApnaMart is a premier online grocery application dedicated to transforming your 
 2. Implement Authentication of user using Jwt token and adopted spring security to secure API endpoints based on roles.
 3. For efficient database operations, Hibernate is utilized to perform CRUD functions and HQL (Hibernate Query Language) is leveraged for complex queries.
 4. Adopted custom exception handling with a centralized global error handler to deliver precise, context-aware, and maintainable error responses.
+5. Implemented a exception handler for handling custom exception that captures and reports detailed error information, streamlining debugging and improving error transparency.
 
 # Tech Stack 🧰 
  Java, Adanced java, Oops, Spring, Springboot, Spring Security, JWT authentication, microservices, Hibernate,Hql, MySQL, REST API, Exception Handling
